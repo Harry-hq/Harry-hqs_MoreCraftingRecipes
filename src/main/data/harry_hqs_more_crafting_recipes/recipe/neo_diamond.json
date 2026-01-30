@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:fire_charge",
+    "b": "minecraft:coal_block",
+    "c": "minecraft:diamond"
+  },
+  "result": {
+    "id": "minecraft:diamond",
+    "count": 9
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "mod_elements": [
+    {
+      "name": "PhantomMembrane",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phantom_membrane",
+      "metadata": {
+        "files": [
+          "src/main/data/more_crafting_recipes/recipe/phantom_membrane.json"
+        ]
+      }
+    },
+    {
+      "name": "EnchantedGoldenApple",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enchanted_golden_apple",
+      "metadata": {
+        "files": [
+          "src/main/data/more_crafting_recipes/recipe/enchanted_golden_apple.json"
+        ]
+      }
+    },
+    {
+      "name": "Deepslate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate",
+      "metadata": {
+        "files": [
+          "src/main/data/more_crafting_recipes/recipe/deepslate.json"
+        ]
+      }
+    },
+    {
+      "name": "Diamond",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond",
+      "metadata": {
+        "files": [
+          "src/main/data/more_crafting_recipes/recipe/neo_diamond.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "metadata": {
+    "files": [
+      "src/main/pack.mcmeta"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "more_crafting_recipes",
+    "modName": "更多配方",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-1.21.4",
+    "modElementsPackage": "net.mcreator.morecraftingrecipes"
+  },
+  "mcreatorVersion": 202500228610
+}
